@@ -119,7 +119,7 @@ p{
 
 .top-cloud{
     position: absolute;
-    right: 450px;
+    right: 210px;
     top: 40px;
 }
 
@@ -134,7 +134,7 @@ p{
 
 .bottom-cloud{
     position: absolute;
-    left: 430px;
+    left: 250px;
     bottom: 300px;
 }
 /*
